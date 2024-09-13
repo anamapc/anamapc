@@ -30,26 +30,13 @@
 
 ### Current:
 
-- Current research topic #1
-- Current research topic #2
-
-<!-- Topics that you haven't research yet but are intriguing to you -->
-### Future interests:
-
-- Future interests research topic #1
-- Future interests research topic #2
-
-
-<!-- Because we are humans before researchers -->
-## Hobbies
-
-- Dormir
-- Hobby #2
+- Mathematical Biology of tropical ecosystems
+- Infectious disease ecology
 
 
 ## Contact
 
-You can reach me at <email@example.com>
+You can reach me at a.paezc@uniandes.edu.co
 
 
 
