@@ -25,8 +25,8 @@
 
 ### Previous:
 
-- Previous research topics #1
-- Previous research topics #2
+- Metagenomics of Anolis sagrei gut microbiome
+- Chemical Ecology of Cardiac glucosides in Erysimum cherantoides
 
 ### Current:
 
